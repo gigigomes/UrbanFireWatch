@@ -1,6 +1,6 @@
 # UrbanFireWatch
 
-A new Flutter project.
+Mobile application developed as a final graduation project (TCC) to report urban fire outbreaks. Built with FlutterFlow and integrated with Firebase.
 
 ## Getting Started
 

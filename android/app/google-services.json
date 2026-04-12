@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841886133505",
+    "project_id": "urbanfirewatch",
+    "storage_bucket": "urbanfirewatch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841886133505:android:c7a932498bc741aa59ff00",
+        "android_client_info": {
+          "package_name": "com.mycompany.urbanfirewatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TgzZnr2WbHkbXbfSZTSEmA3wgbsEWeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
